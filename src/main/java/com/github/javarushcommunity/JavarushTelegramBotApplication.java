@@ -1,5 +1,6 @@
 package com.github.javarushcommunity;
 
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Простая структура Spring-проекта.
