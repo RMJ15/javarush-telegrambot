@@ -9,5 +9,4 @@ class JavarushTelegramBotApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
